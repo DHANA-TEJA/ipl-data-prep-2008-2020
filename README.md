@@ -1,4 +1,3 @@
-# ipl-data-prep-2008-2024
 # IPL Data Preprocessing
 
 Preprocessing IPL match and delivery data (2008–2024) 
